@@ -1,0 +1,3 @@
+
+BELOW IS THE LINK TO DATASET OF HUMAN FACE IMAGES ON KAGGLE:
+https://www.kaggle.com/datasets/almightyj/person-face-sketches
